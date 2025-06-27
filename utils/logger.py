@@ -1,0 +1,1 @@
+logger.info(f"Intento de validación: {email} - Resultado: {status}")
